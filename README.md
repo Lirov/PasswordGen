@@ -1,1 +1,1 @@
-littel password generator written in Python
+Littel password generator written in Python
